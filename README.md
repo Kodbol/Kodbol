@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kodbol
+- 👋 Hi, I’m @kodbol
 - 👀 I’m interested in scripting
 - 🌱 I’m currently learning lua/luau
 - 💞️ I’m looking to collaborate with someone
